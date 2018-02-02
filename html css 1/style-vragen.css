@@ -1,0 +1,38 @@
+body {
+  background-color: #16b7ac;
+}
+
+h1, h2 {
+  color: blue;
+  text-align: center;
+  font-family: Georgia, "Times New Roman";
+  font-style: italic;
+}
+
+p {
+  margin-left: 15% ;
+  margin-right: 15%;
+  border: 4px solid orange;
+  color: #FFDDFF;
+  background-color: maroon;
+  text-align : center;
+  font-family: Georgia, "Times New Roman" , Times, serif;
+  font-style: italic;
+}
+ul li {
+  display: inline;
+}
+a {
+  color: maroon ;
+  text-align:
+}
+
+.antwoord {
+  color:maroon;
+  background-color: maroon;
+
+}
+.antwoord:hover {
+  color: white;
+
+}

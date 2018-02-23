@@ -29,8 +29,8 @@ h1, h2 {
   font-style: italic;
 }
 a {
-  color: #99CCCC ;
-  text-align:
+  color: #99CCCC;
+  margin: 8px;
 }
 ul li {
   display: inline;

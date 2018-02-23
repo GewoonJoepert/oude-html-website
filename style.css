@@ -30,8 +30,9 @@ h1, h2 {
 }
 a {
   color: #99CCCC;
-  margin: 8px;
+  margin: 5px;
 }
 ul li {
   display: inline;
+  border: 2px;
 }

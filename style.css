@@ -23,3 +23,6 @@ a {
 ul li {
   display: inline;
 }
+table {
+  color: white;
+}
